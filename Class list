@@ -1,0 +1,6 @@
+list = ["apple", "banana", "cherry", "apple", "cherry"]
+print(list)
+
+['apple', 'banana', 'cherry', 'apple', 'cherry']
+
+[Program finished]
