@@ -4,3 +4,21 @@ print(list)
 ['apple', 'banana', 'cherry', 'apple', 'cherry']
 
 [Program finished]
+
+
+
+shopping_list = []
+
+shopping_list.append("milk")
+shopping_list.append("bread")
+shopping_list.append("eggs")
+
+for item in shopping_list:
+    print("Buy:", item)
+
+output:
+Buy: milk
+Buy: bread
+Buy: eggs
+
+[Program finished]
