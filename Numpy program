@@ -1,0 +1,75 @@
+import numpy as np
+a = np.array([1, 2, 3])
+print("Array:", a)
+
+Array: [1 2 3]
+
+[Program finished]
+
+import numpy as np
+z = np.zeros((2, 3))
+print("Zeros:\n", z)
+
+Zeros:
+ [[0. 0. 0.]
+ [0. 0. 0.]]
+
+[Program finished]
+
+import numpy as np
+o = np.ones((2, 2))
+print("Ones:\n", o)
+
+Ones:
+ [[1. 1.]
+ [1. 1.]]
+
+[Program finished]
+
+import numpy as np
+f = np.full((2, 2), 5)
+print("Full array:\n", f)
+
+Full array:
+ [[5 5]
+ [5 5]]
+
+[Program finished]
+
+import numpy as np
+i = np.eye(3)
+print("Identity matrix:\n", i)
+
+Identity matrix:
+ [[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+
+[Program finished]
+
+(1)
+import numpy as np
+r = np.arange(0, 10, 2)
+print("Arange:", r)
+
+Arange: [0 2 4 6 8]
+
+[Program finished]
+
+import numpy as np
+l = np.linspace(0, 1, 5)
+print("Linspace:", l)
+
+Arange: [0 2 4 6 8]
+
+[Program finished]
+
+import numpy as np
+rand = np.random.rand(2, 2
+print("Random values:\n", rand)
+
+Random values:
+ [[0.69350163 0.64471592]
+ [0.65631382 0.85503391]]
+
+[Program finished]
